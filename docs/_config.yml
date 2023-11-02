@@ -1,0 +1,7 @@
+# Jekyll configuration
+name: PNNL-Preprocessor
+description: Tools to improve Agilent IMS data analysis
+url: https://pnnl-comp-mass-spec.github.io/PNNL-Preprocessor-Dist/
+
+# Google Analytics
+google_analytics: G-LXXKP1N66C
