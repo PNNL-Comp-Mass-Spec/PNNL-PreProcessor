@@ -35,9 +35,8 @@ __Disclaimer__: the saturation repair software may produce incorrect results for
 If you use the PreProcessor, please cite: Bilbao et al. *A Preprocessing Tool for Enhanced Ion Mobility-Mass Spectrometry-Based Omics Workflows.* Journal of Proteome Research 2021 [https://doi.org/10.1021/acs.jproteome.1c00425](https://doi.org/10.1021/acs.jproteome.1c00425).
 
 ### Downloads
-* [Software](https://github.com/PNNL-Comp-Mass-Spec/PNNL-Preprocessor-Dist/releases/download/v4.1/PNNL-Preprocessor_4.1_2023.06.02.zip)
-* [Software installer](https://github.com/PNNL-Comp-Mass-Spec/PNNL-Preprocessor-Dist/releases/download/v4.1/PNNL-Preprocessor_4.1_2023.06.02_INSTALLER.exe) [as .zip file](https://github.com/PNNL-Comp-Mass-Spec/PNNL-Preprocessor-Dist/releases/download/v4.1/PNNL-Preprocessor_4.1_2023.06.02_INSTALLER.zip)
-* [User Guide](https://github.com/PNNL-Comp-Mass-Spec/PNNL-Preprocessor-Dist/releases/download/v4.1/PNNL-PreProcessor_UserGuide_4.1_2023.06.pdf)
+* [Software, in .zip or installer](https://github.com/PNNL-Comp-Mass-Spec/PNNL-PreProcessor/releases/latest)
+* [User Guide](https://github.com/PNNL-Comp-Mass-Spec/PNNL-Preprocessor-Dist/releases/download/v5.0/PNNL-PreProcessor_UserGuide_5.0_2024.05.31.pdf)
 
 ### Requirements
 * Supports MS-files in UIMF or Agilent MassHunter (.d) format (note: Bruker .d format will not work)
