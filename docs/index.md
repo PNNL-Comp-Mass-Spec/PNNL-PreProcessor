@@ -67,7 +67,7 @@ An example hardware configuration that has significant processing time improveme
 ##### Software Requirements
 * Windows 7 (64-bit) or later Windows 64-bit operating system
   * .NET Framework 4.7.2 or later (included with Windows 10 update 1803 and later releases, for earlier Windows you can [download from Microsoft](https://dotnet.microsoft.com/en-us/download/dotnet-framework))
-  * Microsoft Visual C++ Runtime x64 (may already be installed, if the program doesn't work then you can [download from Microsoft](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2013-vc-120))
+  * Microsoft Visual C++ Runtime x64 (may already be installed, if the program doesn't work then you can [download vcredist_x64.exe from Microsoft](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2013-vc-120--no-longer-supported) - the version 'Visual Studio 2013 (VC++ 12.0)' is needed)
 
 ### Acknowledgment
 
