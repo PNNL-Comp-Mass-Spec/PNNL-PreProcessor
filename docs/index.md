@@ -32,7 +32,10 @@ New features:
 
 __Disclaimer__: the saturation repair software may produce incorrect results for ions with highly convoluted elution/mobility profiles caused by interferences. Please use the current version at your own risk and check the output log files in each data file to verify the repairs made.
 
+### How to Cite
 If you use the PreProcessor, please cite: Bilbao et al. *A Preprocessing Tool for Enhanced Ion Mobility-Mass Spectrometry-Based Omics Workflows.* Journal of Proteome Research 2021 [https://doi.org/10.1021/acs.jproteome.1c00425](https://doi.org/10.1021/acs.jproteome.1c00425).
+
+If you use the IM-to-LC, IM-to-CCS, or IM-to-DDA conversions, please cite: Stow et al. *Exploring Ion Mobility Mass Spectrometry Data File Conversions to Leverage Existing Tools and Enable New Workflows.* Journal of the American Society for Mass Spectrometry 2024. [https://pubs.acs.org/doi/full/10.1021/jasms.4c00220](https://pubs.acs.org/doi/full/10.1021/jasms.4c00220).
 
 ### Downloads
 * [Software, in .zip or installer](https://github.com/PNNL-Comp-Mass-Spec/PNNL-PreProcessor/releases/latest)
