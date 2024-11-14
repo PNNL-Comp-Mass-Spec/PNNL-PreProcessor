@@ -74,7 +74,15 @@ An example hardware configuration that has significant processing time improveme
 
 ### Acknowledgment
 
-All publications that utilize this software should provide appropriate acknowledgement to PNNL and the PNNL-Preprocessor publication. However, if the software is extended or modified, then any subsequent publications should include a more extensive statement, as shown in the Readme file for the given application or on the website that more fully describes the application.
+All publications that utilize this software should provide appropriate acknowledgement to PNNL and the PNNL-Preprocessor publication.
+
+For questions about the possibility of extending or modifying the software please contact aivett.bilbao@pnnl.gov.
+
+### License addendum
+
+This software binary is provided free of charge (closed-source code due to restrictions from the instrument vendor on their proprietary formats).
+
+However, the software binary depends on other software libraries which place further restrictions on its use and redistribution. By using PNNL-PreProcessor, you agree to comply with the restrictions imposed on you by the license agreements of the software libraries on which it depends: Agilent Technologies Mass Hunter Data Access Component Library (www.agilent.com).
 
 ### Disclaimer
 
